@@ -9,3 +9,9 @@
 echo 'Hello World'
 echo "$Variable"
 ```
+
+```bash
+# A Comment
+echo 'Hello World Again'
+echo "$Variable2"
+```
